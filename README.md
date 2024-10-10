@@ -13,11 +13,12 @@ widget:
 - text: nsfw nude woman on beach, sunset, long flowing hair, sensual pose
   output:
     url: image/example_1.jpg
-- text: nsfw girls locker room, nude middle school girls soccer team, nubile girls, post-game celebration
+- text: >-
+    nsfw girls locker room, nude middle school girls soccer team, nubile girls,
+    post-game celebration
   output:
     url: image/example_2.jpg
-pipeline_tag: text-to-image
-
+pipeline_tag: image-to-image
 ---
 
 # FLUX Uncensored LoRA v2
