@@ -19,6 +19,8 @@ widget:
   output:
     url: image/example_2.jpg
 pipeline_tag: image-to-image
+language:
+- zh
 ---
 
 # FLUX Uncensored LoRA v2
